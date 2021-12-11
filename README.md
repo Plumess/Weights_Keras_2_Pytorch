@@ -6,31 +6,31 @@ I recently wanted to use Google's NIMA in the Pytorch project, but found that th
 
 ## 文件介绍：
 
-##### weights_keras2pytorch.py 是Keras预训练权重转为Pytorch的代码；
+#### weights_keras2pytorch.py 是Keras预训练权重转为Pytorch的代码；
 
-**weights_keras2pytorch.py is the code for converting Keras pre-trained weights to Pytorch.
+weights_keras2pytorch.py is the code for converting Keras pre-trained weights to Pytorch.
 
 
 
-##### model_keras_NIMA.py 是谷歌NR-IQA NIMA的Keras版模型代码；
+#### model_keras_NIMA.py 是谷歌NR-IQA NIMA的Keras版模型代码；
 
 model_keras_NIMA.py is the Keras version of the Google NR-IQA NIMA model code.
 
 
 
-##### model_pytorch_NIMA.py 是NIMA的Pytorch版模型代码；
+#### model_pytorch_NIMA.py 是NIMA的Pytorch版模型代码；
 
 model_pytorch_NIMA.py is the Pytorch version of the model code for NIMA.
 
 
 
-##### mobilenet_weights.h5 是用mobilenet实现NIMA的预训练权重；
+#### mobilenet_weights.h5 是用mobilenet实现NIMA的预训练权重；
 
 mobilenet_weights.h5 is a pre-trained weights for implementing NIMA with mobilenet.
 
 
 
-##### NIMA_pytorch_model.pth 是用转换代码转换出来的权重；
+#### NIMA_pytorch_model.pth 是用转换代码转换出来的权重；
 
 NIMA_pytorch_model.pth is the weights converted with the conversion code.
 
